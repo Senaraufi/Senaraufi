@@ -1,10 +1,11 @@
 # Sena Raufi - Cybersecurity Portfolio
 
-> 🛡️ Aspiring cybersecurity professional with a strong foundation in computer science, networking, and software development.
+> 🛡️ Student in Digital Forensics and Cyber Security in TU Dublin, with foundation in computer science, networking, and software development.
 
 🌐 **[Visit My Portfolio](https://senaraufi.github.io/professional-portfolio/)**
 
-## 🎓 Education & Expertise
+## 🎓 Education 
+> TU Dublin student in 2nd year TU863 Digital Forensics and Cyber Security from 2023-2027
 
 ### Core Areas:
 - 🔒 Network Security & Architecture
@@ -38,9 +39,8 @@
 
 ## 🚀 Projects
 
-- Network Security Analysis Tool (Java)
-- Interactive Security Simulation (Unity)
-- Secure Database Management System (Java)
+- **Unity Game:** [IMM Game Final](https://github.com/Senaraufi/IMM-Game_Final.git)
+- **Game with OOP:** [OOAD Mini Project](https://github.com/Senaraufi/OOAD-miniproject.git)
 
 ## 🏃‍♂️ Local Development
 
@@ -68,7 +68,7 @@
 ## 🔗 Links
 - [Live Portfolio](https://senaraufi.github.io/professional-portfolio/)
 - [GitHub](https://github.com/Senaraufi)
-- [LinkedIn](https://linkedin.com/in/senaraufi)
+- [LinkedIn](https://www.linkedin.com/in/sena-raufi-610187293/)
 
 ## 📝 License
 
