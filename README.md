@@ -2,6 +2,8 @@
 
 > 🛡️ Aspiring cybersecurity professional with a strong foundation in computer science, networking, and software development.
 
+🌐 **[Visit My Portfolio](https://senaraufi.github.io/professional-portfolio/)**
+
 ## 🎓 Education & Expertise
 
 ### Core Areas:
@@ -28,10 +30,10 @@
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** Java, C# (Unity), SQL, HTML/CSS
+- **Programming Languages:** Java, C# (Unity), SQL, HTML/CSS, JavaScript, React
 - **Networking:** TCP/IP, LAN/WAN, Routing Protocols
 - **Security:** Network Security, System Architecture
-- **Tools:** Unity, Git, Visual Studio, Eclipse
+- **Tools:** Unity, Git, Visual Studio, Eclipse, Vite
 - **Databases:** SQL, Database Design
 
 ## 🚀 Projects
@@ -40,12 +42,12 @@
 - Interactive Security Simulation (Unity)
 - Secure Database Management System (Java)
 
-## 🏃‍♂️ Running the Portfolio
+## 🏃‍♂️ Local Development
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Senaraufi/Senaraufi.git
-   cd Senaraufi
+   git clone https://github.com/Senaraufi/professional-portfolio.git
+   cd professional-portfolio
    ```
 
 2. Install dependencies
@@ -53,10 +55,20 @@
    npm install
    ```
 
-3. Start the development server
+3. Run development server
    ```bash
    npm run dev
    ```
+
+4. Build for production
+   ```bash
+   npm run build
+   ```
+
+## 🔗 Links
+- [Live Portfolio](https://senaraufi.github.io/professional-portfolio/)
+- [GitHub](https://github.com/Senaraufi)
+- [LinkedIn](https://linkedin.com/in/senaraufi)
 
 ## 📝 License
 
