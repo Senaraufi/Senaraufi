@@ -1,8 +1,6 @@
 # Sena Raufi - Portfolio
 
-![Portfolio Preview](./src/assets/portfolio-preview.png)
-
-A modern, responsive portfolio website built with React and Tailwind CSS.
+> 🎨 A modern, responsive portfolio website built with React and Tailwind CSS.
 
 ## 🚀 Features
 
