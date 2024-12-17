@@ -37,8 +37,8 @@
 
 ## 🚀 Projects
 
-Unity Game: https://github.com/Senaraufi/IMM-Game_Final.git
-Game with OOP: https://github.com/Senaraufi/OOAD-miniproject.git
+- **Unity Game:** https://github.com/Senaraufi/IMM-Game_Final.git
+- **Game with OOP:** https://github.com/Senaraufi/OOAD-miniproject.git
 
 ## 🏃‍♂️ Running the Portfolio
 
