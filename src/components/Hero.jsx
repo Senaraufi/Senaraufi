@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { FaGithub, FaLinkedin } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaShieldAlt } from 'react-icons/fa';
 import { HiArrowNarrowRight } from 'react-icons/hi';
 
 const Hero = () => {
@@ -12,13 +12,15 @@ const Hero = () => {
           transition={{ duration: 0.8 }}
           className="flex flex-col justify-center h-full"
         >
-          <h2 className="text-4xl sm:text-7xl font-bold text-white mb-4">
-            Full Stack Developer
-          </h2>
+          <div className="flex items-center gap-4 mb-4">
+            <FaShieldAlt className="text-cyan-500 text-4xl" />
+            <h2 className="text-4xl sm:text-7xl font-bold text-white">
+              Cybersecurity Student
+            </h2>
+          </div>
           <p className="text-gray-400 py-4 max-w-md text-xl">
-            I'm passionate about building and designing software.
-            Currently, I love to work on web applications using technologies like
-            React, Tailwind, and Node.js.
+            Aspiring cybersecurity professional with a strong foundation in computer science, networking, and Java programming. 
+            Currently focusing on network security, system architecture, and secure software development.
           </p>
 
           <div className="flex gap-6 items-center">

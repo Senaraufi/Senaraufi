@@ -1,23 +1,46 @@
-# Sena Raufi - Portfolio
+# Sena Raufi - Cybersecurity Portfolio
 
-> 🎨 A modern, responsive portfolio website built with React and Tailwind CSS.
+> 🛡️ Aspiring cybersecurity professional with a strong foundation in computer science, networking, and software development.
 
-## 🚀 Features
+## 🎓 Education & Expertise
 
-- ⚡️ Modern UI Design + Reveal Animations
-- 📱 Fully Responsive
-- 🎨 Styled with Tailwind CSS
-- 🎭 Interactive Elements
-- 🌙 Dark Theme
+### Core Areas:
+- 🔒 Network Security & Architecture
+- 💻 Java Programming & Software Development
+- 🌐 Web Development & Database Management
+- 🎮 Interactive Multimedia Development (Unity)
 
-## 🛠️ Tech Stack
+### Key Coursework:
+- Network Security & Architecture
+  - Networking Basics
+  - Routers and Routing
+  - LAN Switching and Wireless
+  
+- Programming & Development
+  - Java Programming (Fundamentals, GUI, OOP)
+  - Web Development
+  - Unity Game Development
+  
+- Computer Science Fundamentals
+  - Algorithmic Problem Solving
+  - Computer Architecture
+  - Database Systems
 
-- [React](https://reactjs.org/) - Frontend Framework
-- [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
-- [Framer Motion](https://www.framer.com/motion/) - Animations
-- [Vite](https://vitejs.dev/) - Build Tool
+## 🛠️ Technical Skills
 
-## 🏃‍♂️ Running Locally
+- **Programming Languages:** Java, C# (Unity), SQL, HTML/CSS
+- **Networking:** TCP/IP, LAN/WAN, Routing Protocols
+- **Security:** Network Security, System Architecture
+- **Tools:** Unity, Git, Visual Studio, Eclipse
+- **Databases:** SQL, Database Design
+
+## 🚀 Projects
+
+- Network Security Analysis Tool (Java)
+- Interactive Security Simulation (Unity)
+- Secure Database Management System (Java)
+
+## 🏃‍♂️ Running the Portfolio
 
 1. Clone the repository
    ```bash
@@ -34,27 +57,6 @@
    ```bash
    npm run dev
    ```
-
-4. Open [http://localhost:5173](http://localhost:5173) in your browser
-
-## 📁 Project Structure
-
-```
-/
-├── src/
-│   ├── components/      # React components
-│   ├── assets/         # Images and static files
-│   ├── styles/         # CSS styles
-│   └── data/          # Content data
-├── public/            # Public assets
-└── package.json      # Project dependencies
-```
-
-## 🔨 Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
 
 ## 📝 License
 
