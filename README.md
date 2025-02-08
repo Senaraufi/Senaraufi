@@ -21,17 +21,19 @@
   
 - Programming & Development
   - Java Programming (Fundamentals, GUI, OOP)
-  - Web Development
+  - Web Development (client side/server side)
   - Unity Game Development
+  - Sofware Engineering and Testing
   
 - Computer Science Fundamentals
   - Algorithmic Problem Solving
   - Computer Architecture
   - Database Systems
+  - Operating Systems
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** Java, C# (Unity), SQL, HTML/CSS, JavaScript, React
+- **Programming Languages:** Java, C# (Unity), SQL, HTML/CSS, JavaScript, PHP, C++, C, PHP
 - **Networking:** TCP/IP, LAN/WAN, Routing Protocols
 - **Security:** Network Security, System Architecture
 - **Tools:** Unity, Git, Visual Studio, Eclipse, Vite
