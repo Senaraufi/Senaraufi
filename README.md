@@ -40,17 +40,20 @@
 
 ## Programming Languages and Markup Languages
 
-- ![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png) JavaScript
-- ![CSS](https://raw.githubusercontent.com/github/explore/main/topics/css/css.png) CSS
-- ![HTML](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png) HTML
-- ![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png) Python
-- ![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png) Java
-- ![C](https://raw.githubusercontent.com/github/explore/main/topics/c/c.png) C
-- ![C#](https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png) C#
-- ![C++](https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png) C++
-- ![MySQL](https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png) MySQL
-- ![PHP](https://raw.githubusercontent.com/github/explore/main/topics/php/php.png) PHP
+### Languages I Know
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" width="40" height="40"/>
+</p>
 ## 🚀 Projects
 
 - **Unity Game:** [IMM Game Final](https://github.com/Senaraufi/IMM-Game_Final.git)
