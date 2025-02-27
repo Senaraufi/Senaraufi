@@ -33,11 +33,23 @@
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** Java, C# (Unity), SQL, HTML/CSS, JavaScript, PHP, C++, C, PHP, Python
 - **Networking:** TCP/IP, LAN/WAN, Routing Protocols, ACLs
 - **Security:** Network Security, System Architecture
 - **Tools:** Unity, Git, Visual Studio, Eclipse, Vite
 - **Databases:** SQL, Database Design
+
+## Programming Languages and Markup Languages
+
+- ![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png) JavaScript
+- ![CSS](https://raw.githubusercontent.com/github/explore/main/topics/css/css.png) CSS
+- ![HTML](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png) HTML
+- ![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png) Python
+- ![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png) Java
+- ![C](https://raw.githubusercontent.com/github/explore/main/topics/c/c.png) C
+- ![C#](https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png) C#
+- ![C++](https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png) C++
+- ![MySQL](https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png) MySQL
+- ![PHP](https://raw.githubusercontent.com/github/explore/main/topics/php/php.png) PHP
 
 ## 🚀 Projects
 
@@ -58,30 +70,7 @@ I actively participate in Capture The Flag (CTF) competitions to further hone my
   
 - **Cryptography:**  
   Analyzing and breaking weak cryptographic implementations using mathematical techniques and scripting in Python.
-
-
-## 🏃‍♂️ Local Development
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/Senaraufi/professional-portfolio.git
-   cd professional-portfolio
-   ```
-
-2. Install dependencies
-   ```bash
-   npm install
-   ```
-
-3. Run development server
-   ```bash
-   npm run dev
-   ```
-
-4. Build for production
-   ```bash
-   npm run build
-   ```
+__
 
 ## 🔗 Links
 - [Live Portfolio](https://senaraufi.github.io/professional-portfolio/)
