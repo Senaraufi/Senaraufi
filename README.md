@@ -55,6 +55,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" width="40" height="40"/>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 ## 🚀 Projects
 
 - **Unity Game:** [IMM Game Final](https://github.com/Senaraufi/IMM-Game_Final.git)
