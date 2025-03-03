@@ -38,24 +38,9 @@
 - **Tools:** Unity, Git, Visual Studio, Eclipse, Vite
 - **Databases:** SQL, Database Design
 
-## Programming Languages and Markup Languages
+## Tools and Languages 
 
-### Languages I Know
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" width="40" height="40"/>
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,c,cs,cpp,mysql,html,css,tailwind,php,docker,figma,bootstrap,unity&theme=light)](https://skillicons.dev)
 
 ## 🚀 Projects
 
