@@ -40,7 +40,7 @@
 
 ## Tools and Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,py,c,cs,cpp,rust,mysql,html,css,tailwind,php,docker,figma,bootstrap,unity&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,c,cs,cpp,rust,mysql,html,css,tailwind,php,figma,bootstrap,unity&theme=light)](https://skillicons.dev)
 
 ## Operating systems I have used 
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,redhat,ubuntu&theme=light)](https://skillicons.dev)
