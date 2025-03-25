@@ -40,10 +40,10 @@
 
 ## Tools and Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,py,c,cs,cpp,rust,mysql,html,css,tailwind,php,figma,bootstrap,unity&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,java,js,py,c,cs,cpp,mysql,html,css,tailwind,php,figma,bootstrap,unity&theme=dark)](https://skillicons.dev)
 
 ## Operating systems I have used 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,redhat,ubuntu&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,redhat,ubuntu,arch&theme=dark)](https://skillicons.dev)
 
 
 ## 🚀 Projects
