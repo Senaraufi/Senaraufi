@@ -49,8 +49,8 @@
 ## 🚀 Projects
 
 - **Unity Game:** [IMM Game Final](https://github.com/Senaraufi/IMM-Game_Final.git)
-- **Game with OOP:** [OOAD Mini Project](https://github.com/Senaraufi/OOAD-miniproject.git)
-- **Emergency Call Center:** [Team24](https://github.com/Senaraufi/Team24)
+- **TalkTempo:** [Software Engineering/WDSS Project](https://github.com/Senaraufi/SofwareEngineering-WDSS_Project)
+- **Emergency Call Center:** [HackIreland Project](https://github.com/Senaraufi/Team24)
 
 ## 🎯 CTF Challenges
 
@@ -68,7 +68,7 @@ I actively participate in Capture The Flag (CTF) competitions to further hone my
 __
 
 ## 🔗 Links
-- [Live Portfolio](https://senaraufi.github.io/professional-portfolio/)
+- [Live Portfolio](https://senaraufi.github.io/website_rs/)
 - [GitHub](https://github.com/Senaraufi)
 - [LinkedIn](https://www.linkedin.com/in/sena-raufi-610187293/)
 
