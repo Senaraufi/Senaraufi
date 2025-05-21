@@ -13,24 +13,6 @@
 - 🌐 Web Development & Database Management
 - 🎮 Interactive Multimedia Development (Unity)
 
-### Key Coursework:
-- Network Security & Architecture
-  - Networking Basics
-  - Routers and Routing
-  - LAN Switching and Wireless
-  
-- Programming & Development
-  - Java Programming (Fundamentals, GUI, OOP)
-  - Web Development (client side/server side)
-  - Unity Game Development
-  - Sofware Engineering and Testing
-  
-- Computer Science Fundamentals
-  - Algorithmic Problem Solving
-  - Computer Architecture
-  - Database Systems
-  - Operating Systems
-
 ## 🛠️ Technical Skills
 
 - **Networking:** TCP/IP, LAN/WAN, Routing Protocols, ACLs
