@@ -1,6 +1,6 @@
 # Sena Raufi - Cybersecurity Portfolio
 
-> 🛡️ Student in Digital Forensics and Cyber Security in TU Dublin, with foundation in computer science, networking, and software development.
+> 🛡️ Student in Digital Forensics and Cyber Security in TU Dublin.
 
 🌐 **[Visit My Portfolio](https://senaraufi.github.io/website_rs/)**
 
@@ -11,13 +11,15 @@
 - 🔒 Network Security & Architecture
 - 💻 Java Programming & Software Development
 - 🌐 Web Development & Database Management
-- 🎮 Interactive Multimedia Development (Unity)
+- 🫆 Computer & Network Forensics
+- 🔐 Secure Programing & Threat analysis
 
 ## 🛠️ Technical Skills
 
 - **Networking:** TCP/IP, LAN/WAN, Routing Protocols, ACLs
-- **Security:** Network Security, System Architecture
-- **Tools:** Unity, Git, Visual Studio, Eclipse, Vite
+- **Security:** Network Security, Threat Analysis, Secure Programming
+- **Forensics:** FTK Imager, Steganography, Write Blockers
+- **Tools:** Unity, Git, Visual Studio, Eclipse, Vite, Vagrant, Autopsy, Binwalk
 - **Databases:** SQL, Database Design
 
 ## Tools and Languages 
@@ -33,10 +35,11 @@
 - **Unity Game:** [IMM Game Final](https://github.com/Senaraufi/IMM-Game_Final.git)
 - **TalkTempo:** [Software Engineering/WDSS Project](https://github.com/Senaraufi/SofwareEngineering-WDSS_Project)
 - **Emergency Call Center:** [HackIreland Project](https://github.com/Senaraufi/Team24)
+- **Every Last Bite:**  [CSPPHackathon](https://github.com/Senaraufi/CSppHacakthon)
 
 ## 🎯 CTF Challenges
 
-I actively participate in Capture The Flag (CTF) competitions to further hone my cybersecurity skills. Below are some areas I focus on along with sample projects that showcase my work:
+I actively participate in Capture The Flag (CTF) competitions to further develop my cybersecurity skills. Below are some areas I focus on along with sample projects that showcase my work:
 
 ### Skills & Areas of Expertise:
 - **Web Exploitation:**  
@@ -62,3 +65,4 @@ This project is open source and available under the [MIT License](LICENSE)
 
 - GitHub: [@Senaraufi](https://github.com/Senaraufi)
 - LinkedIn: [Sena Raufi](https://www.linkedin.com/in/sena-raufi-610187293/)
+- Mail: [sena.devx@gmail.com](mailto:sena.devx@gmail.com)
