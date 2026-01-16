@@ -1,13 +1,13 @@
-# Sena Raufi - Cybersecurity Portfolio
+<!--# Sena Raufi - Cybersecurity Portfolio-->
 
 > 🛡️ Student in Digital Forensics and Cyber Security in TU Dublin.
 
 🌐 **[Visit My Portfolio](https://senaraufi.github.io/website_rs/)**
 
-## 🎓 Education 
+### Education 
 > TU Dublin student in 3rd year TU863 Digital Forensics and Cyber Security from 2023-2027
 
-### Core Areas:
+<!--- ### Core Areas:
 - 🔒 Network Security & Architecture
 - 💻 Java Programming & Software Development
 - 🌐 Web Development & Database Management
@@ -21,7 +21,7 @@
 - **Forensics:** FTK Imager, Steganography, Write Blockers
 - **Tools:** Unity, Git, Visual Studio, Eclipse, Vite, Vagrant, Autopsy, Binwalk
 - **Databases:** SQL, Database Design
-
+-->
 ## Tools and Languages 
 
 [![My Skills](https://skillicons.dev/icons?i=rust,java,js,py,c,cs,cpp,mysql,html,css,tailwind,php,figma,bootstrap,unity&theme=dark)](https://skillicons.dev)
@@ -30,7 +30,7 @@
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,redhat,debian,arch&theme=dark)](https://skillicons.dev)
 
 
-## 🚀 Projects
+<!--- ## 🚀 Projects
 
 - **Unity Game:** [IMM Game Final](https://github.com/Senaraufi/IMM-Game_Final.git)
 - **TalkTempo:** [Software Engineering/WDSS Project](https://github.com/Senaraufi/SofwareEngineering-WDSS_Project)
@@ -56,6 +56,7 @@ __
 - [Live Portfolio](https://senaraufi.github.io/website_rs/)
 - [GitHub](https://github.com/Senaraufi)
 - [LinkedIn](https://www.linkedin.com/in/sena-raufi-610187293/)
+-->
 
 ## 📝 License
 
