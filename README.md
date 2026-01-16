@@ -1,11 +1,8 @@
 <!--# Sena Raufi - Cybersecurity Portfolio-->
 
-> 🛡️ Student in Digital Forensics and Cyber Security in TU Dublin.
+> Student in 3rd year TU863 Digital Forensics and Cyber Security from 2023-2027 in TU Dublin.
 
-🌐 **[Visit My Portfolio](https://senaraufi.github.io/website_rs/)**
-
-## Education 
-> TU Dublin student in 3rd year TU863 Digital Forensics and Cyber Security from 2023-2027
+**[Visit My Portfolio](https://senaraufi.github.io/website_rs/)**
 
 <!--- ### Core Areas:
 - 🔒 Network Security & Architecture
