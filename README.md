@@ -4,7 +4,7 @@
 
 🌐 **[Visit My Portfolio](https://senaraufi.github.io/website_rs/)**
 
-### Education 
+## Education 
 > TU Dublin student in 3rd year TU863 Digital Forensics and Cyber Security from 2023-2027
 
 <!--- ### Core Areas:
@@ -56,13 +56,13 @@ __
 - [Live Portfolio](https://senaraufi.github.io/website_rs/)
 - [GitHub](https://github.com/Senaraufi)
 - [LinkedIn](https://www.linkedin.com/in/sena-raufi-610187293/)
--->
 
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE)
+-->
 
-## 📧 Contact
+## Contact
 
 - GitHub: [@Senaraufi](https://github.com/Senaraufi)
 - LinkedIn: [Sena Raufi](https://www.linkedin.com/in/sena-raufi-610187293/)
