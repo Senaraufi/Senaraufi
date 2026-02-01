@@ -7,7 +7,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=rust,java,js,py,c,cs,cpp,mysql,html,css,tailwind,php,figma,bootstrap,unity&theme=dark)](https://skillicons.dev)
 
-## Operating systems I have used 
+## Operating systems 
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,redhat,debian,arch&theme=dark)](https://skillicons.dev)
 
 <!---
