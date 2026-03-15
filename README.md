@@ -1,4 +1,5 @@
-> Student in 3rd year TU863 Digital Forensics and Cyber Security from 2023-2027 in TU Dublin.
+> Security tooling & digital forensics. Building production-grade security tools in Rust.
+> CTF competitor. TU Dublin Cyber Security.
 
 **[Visit My Portfolio](https://senaraufi.github.io/website_rs/)**
 
